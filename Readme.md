@@ -1,6 +1,4 @@
-I apologize for the confusion. Here's the complete content enclosed within a markdown code block:
 
-```
 # Translator CLI 👨‍💻
 
 A command-line interface (CLI) tool for translating sentences into a specific language using the Google Translate API. 🌐🔠
