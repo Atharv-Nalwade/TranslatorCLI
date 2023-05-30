@@ -63,4 +63,3 @@ The Translator CLI relies on the following dependencies:
 - [boxen](https://www.npmjs.com/package/boxen) 📦
 - [chalk](https://www.npmjs.com/package/chalk) 🖍️
 - [figlet](https://www.npmjs.com/package/figlet) 🖼️
-```
