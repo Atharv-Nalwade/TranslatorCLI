@@ -36,7 +36,9 @@ To translate the sentence "Hello, how are you?" into French, use the following c
 translate -l fr -s "Hello, how are you?"
 ```
 
-The translated output will be displayed in the terminal.
+The translated output will be displayed as follows:
+![Terminal Output](./Images/OutputImg.png)
+
 
 ## Options ⚙️
 
