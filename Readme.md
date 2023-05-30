@@ -37,7 +37,7 @@ translate -l fr -s "Hello, how are you?"
 ```
 
 The translated output will be displayed as follows:
-![Terminal Output](./Images/OutputImg.png)
+![Terminal Output](./images/OutputImg.png)
 
 
 ## Options ⚙️
