@@ -1,0 +1,21 @@
+{
+  "name": "translatorcli",
+  "version": "1.0.0",
+  "description": "A CLI for transalting your sentence into specified language",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "translate": "./bin/index.js"
+  },
+  "author": "Atharv N",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "yargs": "^17.7.2"
+  }
+}
