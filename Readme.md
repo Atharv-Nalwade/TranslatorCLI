@@ -1,3 +1,5 @@
+![LogoImg](./images/TitleImg.png)
+
 
 # Translator CLI 👨‍💻
 
