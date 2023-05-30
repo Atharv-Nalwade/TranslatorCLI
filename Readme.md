@@ -37,6 +37,7 @@ translate -l fr -s "Hello, how are you?"
 ```
 
 The translated output will be displayed as follows:
+
 ![Terminal Output](./images/OutputImg.png)
 
 
@@ -44,7 +45,8 @@ The translated output will be displayed as follows:
 
 The Translator CLI supports the following options:
 
-- `-l, --language`: Specifies the target language for translation. Use the language code (e.g., "fr" for French, "es" for Spanish).
+- `-l, --language`: Specifies the target language for translation. Use the language code 
+                    (e.g., "fr" for French, "es" for Spanish).
 - `-s, --sentence`: Specifies the sentence to be translated.
 
 ## Author ✍️
