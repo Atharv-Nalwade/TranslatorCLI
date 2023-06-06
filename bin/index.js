@@ -6,7 +6,7 @@ const translate = require('@vitalets/google-translate-api');
 const figlet = require("figlet");
 
 const usage = chalk.keyword("violet")(
-  "\nUsage: mycli -l <language> -s <sentence>\n" +
+  "\nUsage: translate -l <language> -s <sentence>\n" +
   boxen(
     chalk.green("\n" + "Translates a sentence to a specific language" + "\n"),
     { padding: 1, borderColor: "green", dimBorder: true, borderStyle: 'round' }
