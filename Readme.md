@@ -13,8 +13,19 @@ Translator CLI is a Node.js application that allows you to easily translate sent
 
 Make sure you have Node.js installed on your machine. Then, follow these steps to install the Translator CLI globally:
 
-1. Open a terminal or command prompt.
-2. Run the following command:
+1. Clone the repository or download the code files.
+2. Open a terminal or command prompt and navigate to the project directory.
+3. Run the following command to install the dependencies:
+
+```shell
+npm install
+```
+4. After the dependencies are installed, run the following command to create a global symlink:
+
+```shell
+npm link
+```
+5. Once the global symlink is created, you need to install the package globally. Run the following command:
 
 ```shell
 npm install -g translatorcli
